@@ -1,5 +1,5 @@
 require "test/unit"
-require "checkout"
+require "lib/checkout"
 
 class CheckoutTest < Test::Unit::TestCase
   
